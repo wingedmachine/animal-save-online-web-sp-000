@@ -26,7 +26,7 @@ html {
 }
 @media only screen and (min-width:792px) and (max-width: 940px) {
   #dolphin {
-    top: 100px;
+    transform: rotate(0.25turn)
   }
 }
 @media only screen and (min-width:642px) and (max-width: 791px) {
